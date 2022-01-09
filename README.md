@@ -1,3 +1,3 @@
-# Erster-Test
+# Eieruhr
 
-Eine Eieruhr-App als erster Test
+Eine Eieruhr-App
