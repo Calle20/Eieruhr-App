@@ -1,3 +1,3 @@
 # Eieruhr
 
-Eine Eieruhr-App
+A simple timer app in HTML.
